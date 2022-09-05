@@ -7,3 +7,4 @@ Programming languages:
 -sourcepawn
 -html/css
 -javascript
+-java
